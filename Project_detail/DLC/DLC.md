@@ -1,6 +1,6 @@
 # 🎵 DLC
 
-#### 음악을 좋야요 했을 떄 좋아요 한 음악 리스트 기반으로 음악 추천을 해주는 서비스입니다.
+#### 음악을 좋야요 했을 떄 좋아요 한 음악 리스트 기반으로 음악 추천을 해주는 서비스
 
 <br/>
 
@@ -54,7 +54,7 @@ DLC의 주요 기능은 아래와 같습니다.
 ![](https://velog.velcdn.com/images/marinred/post/0a49bd42-f3af-4b5b-b69a-31bbd63d8e0b/image.png)
 - 노래 상세 페이지
 ![](https://velog.velcdn.com/images/marinred/post/e60387fc-d50c-4896-8b1b-42080d5f6432/image.png)
-- 프로필 상세 페이지
+- 프로필 상세 페이지<br>
 ![](https://velog.velcdn.com/images/marinred/post/98e341cb-d392-4afa-931c-522093679073/image.png)
 
 ## 5. ERD 설계

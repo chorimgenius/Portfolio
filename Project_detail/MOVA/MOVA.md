@@ -14,8 +14,8 @@
 - 역할
 
   - 웹툰 정보 크롤링(Selenium, Chromedriver, BeautifulSoup)
-  - 배포 및 운영(Docker, AWS)
-  - 프론트 연동 및 프론트 배포 진행
+  - 배포 및 운영(AWS EC2, AWS Route53, Docker, Docker compose, Gunicorn, Nginx, Postgresql)
+  - 프론트 연동 및 프론트 배포 진행(AWS S3, AWS CloudFront, AWS route53)
 
   
 ## 2. 사용 기술

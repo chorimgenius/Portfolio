@@ -4,20 +4,13 @@
 
 ### ❤️‍🔥 꾸준함과 열정으로 노력하고 성장하는 백엔드 개발자 염보미입니다.
 
-<br/>
-
 ## 📱Contact
-- 이메일: jk04030@naver.com
-        artyum15@kakao.com
+- 이메일: jk04030@naver.com / artyum15@kakao.com
 - 블로그: https://lemontiger.tistory.com/
 - Github: https://github.com/chorimgenius
-
-<br/>
-<br/>
-
+<br>
 
 ## 📂 My Project
-<br/>
 
 ## 1. ✒ MOVA
 ![mova main](https://user-images.githubusercontent.com/113073174/210254039-7fcdefaf-7cc7-4880-ae87-c463fb601207.png)

@@ -4,15 +4,17 @@
 
 ### ❤️‍🔥 꾸준함과 열정으로 노력하고 성장하는 백엔드 개발자 염보미입니다.
 
+<br>
+
 ## 📱Contact
 - 이메일: jk04030@naver.com / artyum15@kakao.com
 - 블로그: https://lemontiger.tistory.com/
 - Github: https://github.com/chorimgenius
 <br>
 
-  Tech Stack
-  ===========
-  🧑‍💻 Used as the main 🧑‍💻
+## Tech Stack
+
+🧑‍💻 Used as the main 🧑‍💻
   <br>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" align='center'/>
@@ -22,7 +24,7 @@
   <br>
   <br>
 
-  🧑‍💻 Used at least once 🧑‍💻  
+ 🧑‍💻 Used at least once 🧑‍💻  
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align='center'>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align='center'>
@@ -43,6 +45,7 @@
   <br>
 
 ## 📂 My Project
+<br>
 
 ## 1. ✒ MOVA
 ### 깃허브 주소
@@ -63,7 +66,8 @@ Javascript / html / css
 
 [프로젝트 상세 설명](https://github.com/chorimgenius/Portfolio/blob/main/Project_detail/MOVA/MOVA.md) 참고
 
-<br/>
+<br>
+<br>
 
 ## 2. 👕 Custom to Clothes
 
@@ -85,7 +89,8 @@ Javascript / html / css
 
 [프로젝트 상세 설명](https://github.com/chorimgenius/Portfolio/blob/main/Project_detail/custom_to_clothes/custom_to_clothes.md) 참고
 
-<br/>
+<br>
+<br>
 
 ## 3. 🎵 DLC
 

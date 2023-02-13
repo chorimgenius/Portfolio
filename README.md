@@ -10,13 +10,46 @@
 - Github: https://github.com/chorimgenius
 <br>
 
+  Tech Stack
+  ===========
+  🧑‍💻 Used as the main 🧑‍💻
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" align='center'/>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" align='center'/>
+  <img src="https://img.shields.io/badge/django rest framework-092E20?style=for-the-badge&logo=&logoColor=white" align='center'/>
+  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" align='center'/>
+  <br>
+  <br>
+
+  🧑‍💻 Used at least once 🧑‍💻  
+  <br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align='center'>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align='center'>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" align='center'>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" align="center">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" align='center'>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" align="center">
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" align="center">
+  <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" align="center">
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" align="center">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" align="center">
+
+  <br>
+  <br>
+
 ## 📂 My Project
 
 ## 1. ✒ MOVA
 ### 깃허브 주소
 [MOVA_BACKEND](https://github.com/marinred/MOVA_BACKEND)
 
-![mova](https://user-images.githubusercontent.com/112370211/218408474-f9e13204-cfae-4cc5-8e0a-9073e4dab7dc.png)
+![mova](https://user-images.githubusercontent.com/112370211/218411213-621622b0-dc80-49b9-884b-1e70708a4e5a.png)
+
 
 ### 웹툰 커뮤니티 및 팬아트 서비스 (팀 프로젝트)
 개발 기간: 2022.11.30 ~ 2022.12.28  (4주)  
@@ -37,7 +70,8 @@ Javascript / html / css
 ### 깃허브 주소
 [Custom_To_Clothes_backend](https://github.com/marinred/Custom_To_Clothes_DLC_Backend)
 
-![CLC](https://user-images.githubusercontent.com/112370211/218409050-10107590-9232-460a-bfc9-e5cfc173edd2.png)
+![CLC](https://user-images.githubusercontent.com/112370211/218411457-d1be7288-b26b-4f53-8dce-538e202f494b.png)
+
 
 ### 옷 커스텀 쇼핑 (팀 프로젝트)
 개발 기간: 2022.11.22 ~ 2022.11.28  (1주)  

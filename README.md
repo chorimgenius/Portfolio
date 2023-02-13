@@ -1,5 +1,7 @@
 # 염보미 | Yeom Bo MI 포트폴리오
 
+<br>
+
 ## 🧑‍💻 Intro
 
 ### ❤️‍🔥 꾸준함과 열정으로 노력하고 성장하는 백엔드 개발자 염보미입니다.
@@ -23,6 +25,7 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" align='center'/>
   <img src="https://img.shields.io/badge/django rest framework-092E20?style=for-the-badge&logo=&logoColor=white" align='center'/>
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" align='center'/>
+  <br>
   <br>
   <br>
 

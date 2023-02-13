@@ -16,7 +16,7 @@
 ### 깃허브 주소
 [MOVA_BACKEND](https://github.com/marinred/MOVA_BACKEND)
 
-![mova main](https://user-images.githubusercontent.com/113073174/210254039-7fcdefaf-7cc7-4880-ae87-c463fb601207.png)
+![mova](https://user-images.githubusercontent.com/112370211/218408474-f9e13204-cfae-4cc5-8e0a-9073e4dab7dc.png)
 
 ### 웹툰 커뮤니티 및 팬아트 서비스 (팀 프로젝트)
 개발 기간: 2022.11.30 ~ 2022.12.28  (4주)  
@@ -37,7 +37,7 @@ Javascript / html / css
 ### 깃허브 주소
 [Custom_To_Clothes_backend](https://github.com/marinred/Custom_To_Clothes_DLC_Backend)
 
-![clc main](https://user-images.githubusercontent.com/113073174/210381300-ba91bc16-1fe6-4586-8d94-f4ed0ecb3cb5.png)
+![CLC](https://user-images.githubusercontent.com/112370211/218409050-10107590-9232-460a-bfc9-e5cfc173edd2.png)
 
 ### 옷 커스텀 쇼핑 (팀 프로젝트)
 개발 기간: 2022.11.22 ~ 2022.11.28  (1주)  
@@ -59,7 +59,7 @@ Javascript / html / css
 
 [DLC_Backend](https://github.com/marinred/DLC_Project)
 
-![image](https://user-images.githubusercontent.com/113073174/210380703-f1ac5c96-cddd-4294-a4e7-3037057b3ec9.png)
+![DLC](https://user-images.githubusercontent.com/112370211/218409095-bc3a1e02-81e7-4701-95f6-4c8a8271cbbf.png)
 
 ### 음악 추천 서비스 (팀 프로젝트)
 개발 기간: 2022.11.2 ~ 2022.11.7  (1주)  

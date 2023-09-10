@@ -25,7 +25,13 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" align='center'/>
   <img src="https://img.shields.io/badge/django rest framework-092E20?style=for-the-badge&logo=&logoColor=white" align='center'/>
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" align='center'/>
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"  align='center'/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"  align="center" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"  align="center" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"  align="center" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"  align="center" />
   <br>
   <br>
   <br>

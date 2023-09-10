@@ -53,6 +53,13 @@
 ## 📂 My Project
 <br>
 
+## sw 기업멤버십 빅데이터 전문가 과정
+### 깃허브 주소
+
+
+
+## AI Backend(Django) 과정
+
 ## 1. ✒ MOVA
 ### 깃허브 주소
 [MOVA_BACKEND](https://github.com/marinred/MOVA_BACKEND)

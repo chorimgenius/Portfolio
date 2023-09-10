@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" align='center'/>
   <img src="https://img.shields.io/badge/django rest framework-092E20?style=for-the-badge&logo=&logoColor=white" align='center'/>
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" align='center'/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"  align='center'>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"  align='center'/>
   <br>
   <br>
   <br>

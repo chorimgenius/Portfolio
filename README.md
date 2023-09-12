@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"  align="center" />
   <br>
   <br>
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"  align="center" />
+  <img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=Seaborn&logoColor=white"  align="center" />
+  <br>
+  <br>
   <br>
 
  🧑‍💻 Used at least once 🧑‍💻  
@@ -58,12 +62,23 @@
   <br>
 
 ## 📂 My Project
-<br>
-
+<br>/
 ## sw 기업멤버십 빅데이터 전문가 과정
+## 1. 유아용품 데이터를 활용한
 ### 깃허브 주소
 
+### 🔧 Skill
+Numpy / Pandas / matplotlib / seaborn / scipy 
 
+
+
+
+## 2. 한국어 QA 모델 만들기
+## 깃허브 주소
+
+## 3. 
+
+## 4. 간판 이미지를 이용한 OCR
 
 ## AI Backend(Django) 과정
 

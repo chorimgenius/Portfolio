@@ -64,21 +64,37 @@
 ## 📂 My Project
 <br>/
 ## sw 기업멤버십 빅데이터 전문가 과정
-## 1. 유아용품 데이터를 활용한
+## 1. 간판 이미지를 이용한 OCR
 ### 깃허브 주소
+[OCR](https://github.com/chorimgenius/OCR)
+
+
+<img width="510" alt="OCR" src="https://github.com/chorimgenius/Portfolio/assets/112370211/0078d6f9-55aa-46f1-a957-b5188ba85be4">
 
 ### 🔧 Skill
-Numpy / Pandas / matplotlib / seaborn / scipy 
+Pytorch / nltk / Pillow / opencv / lmdb / natsort/ yolov5
 
+참고 git
+[deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)  
+[Korean-Sign-OCR](https://github.com/lastdefiance20/Korean-Sign-OCR)  
 
+## Yolov5와 TRBA(CTC) 모델을 이용한 OCR dashboard 만들기
+기반 : 2023.08.02~09.07
 
+## 2. 유아용품 데이터를 활용한 비즈니스 데이터 분석
+### 깃허브 주소
+[baby_product_project](https://github.com/chorimgenius/baby_product_project)
 
-## 2. 한국어 QA 모델 만들기
-## 깃허브 주소
+<img width="510" alt="baby" src="https://github.com/chorimgenius/Portfolio/assets/112370211/139f56f4-700c-4774-a918-44dd270fb9c5">
 
-## 3. 
+### 기업데이터(유아용품 데이터)를 활용한 비즈니스 데이터 분석 및 도출
+기간: 2023.06.19~6.30
 
-## 4. 간판 이미지를 이용한 OCR
+### 🔧 Skill
+Numpy / Pandas / matplotlib / seaborn / scipy / scikit-learn 
+
+<br>
+<br>
 
 ## AI Backend(Django) 과정
 

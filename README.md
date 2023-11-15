@@ -100,8 +100,8 @@ Pytorch / nltk / Pillow / opencv / lmdb / natsort/ yolov5
 [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)  
 [Korean-Sign-OCR](https://github.com/lastdefiance20/Korean-Sign-OCR)  
 
-Yolov5와 TRBA(CTC) 모델을 이용한 OCR dashboard 만들기
-기반 : 2023.08.02~09.07
+Yolov5와 TRBA(CTC) 모델을 이용한 OCR dashboard 만들기  
+기간 : 2023.08.02~09.07
 
 ## 4. 유아용품 데이터를 활용한 비즈니스 데이터 분석
 ### 깃허브 주소

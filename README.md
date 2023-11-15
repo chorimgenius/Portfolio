@@ -189,5 +189,5 @@ Javascript / html / css
 
 [프로젝트 상세 설명](https://github.com/chorimgenius/Portfolio/blob/main/Project_detail/DLC/DLC.md) 참고
 
-### 수상이력
+## 수상이력
 - 빅데이터 아이디어 오디션 2023 (dbi2023) 우수상 수상 (디지털 금융)

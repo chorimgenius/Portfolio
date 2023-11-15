@@ -63,8 +63,30 @@
 
 ## 📂 My Project
 <br>/
+
 ## sw 기업멤버십 빅데이터 전문가 과정
-## 1. 간판 이미지를 이용한 OCR
+## 1. zerooneai 인턴과정
+### 기간: 2023.09.11 ~ 2023.11.15
+
+<img width="453" alt="스크린샷 2023-11-15 오후 2 03 11" src="https://github.com/chorimgenius/Portfolio/assets/112370211/89f1d5f0-5b1b-4588-8f78-06fb9588e4a6">
+
+
+### 깃허브 주소
+[zerooneai](https://github.com/chorimgenius/zerooneai_intern)
+
+### 🔧 Skill
+numpy/pandas/matplotlib/seaborn/pycaret/pandas-profiling(ydata-profiling)/docker/go
+
+## 2. ICT 중소기업의 재무 및 비재무 정보를 통한 은행 대출 가능 여부 진단과 비재무적 요소 관리 솔루션 (팀프로젝트 - 디지털 금융)
+### 깃허브 주소
+[bank_loan_availability](https://github.com/chorimgenius/Bank_loan_availability)
+
+<img width="510" alt="OCR" src="https://github.com/chorimgenius/Portfolio/assets/112370211/85d41d14-aa7c-47ef-b11f-809684243b56">
+
+### 🔧 Skill
+numpy / Pandas / matplotlib / Seaborn / scikit-learn / imlearn / scipy / shap
+
+## 3. 간판 이미지를 이용한 OCR
 ### 깃허브 주소
 [OCR](https://github.com/chorimgenius/OCR)
 
@@ -81,7 +103,7 @@ Pytorch / nltk / Pillow / opencv / lmdb / natsort/ yolov5
 ## Yolov5와 TRBA(CTC) 모델을 이용한 OCR dashboard 만들기
 기반 : 2023.08.02~09.07
 
-## 2. 유아용품 데이터를 활용한 비즈니스 데이터 분석
+## 4. 유아용품 데이터를 활용한 비즈니스 데이터 분석
 ### 깃허브 주소
 [baby_product_project](https://github.com/chorimgenius/baby_product_project)
 
@@ -166,3 +188,6 @@ Python / Django / DjangoRestFramework
 Javascript / html / css
 
 [프로젝트 상세 설명](https://github.com/chorimgenius/Portfolio/blob/main/Project_detail/DLC/DLC.md) 참고
+
+### 수상이력
+- 빅데이터 아이디어 오디션 2023 (dbi2023) 우수상 수상 (디지털 금융)
